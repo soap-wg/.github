@@ -9,8 +9,5 @@ The paper contains four contributions.
 This GitHub organization contains all repositories hosting the various source files associated with the academic paper.
 You can also visit SOAP's project page [here](soap-wg.github.io), and the web-based prototype of SOAP [here](soap-proto.net).
 
-## Index of Repositories
-
-- [soap-proofs](https://github.com/soap-wg/soap-proofs) for our formal model and proofs (use release [USENIX](https://github.com/soap-wg/soap-proofs/releases/tag/usenix) for the formal model as referenced in the paper)
-- [soap-web](https://github.com/soap-wg/soap-web) for our web-based prototype (use release [USENIX](https://github.com/soap-wg/soap-web/releases/tag/usenix) for the formal model as referenced in the paper)
-- [Signal-Android](https://github.com/soap-wg/Signal-Android) for our Signal prototype for Android
+See bellow for the respective artifact repositories.
+Where applicable, the release (and tag) `usenix` provides the code as referenced in the paper.
